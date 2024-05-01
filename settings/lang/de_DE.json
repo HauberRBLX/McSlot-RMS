@@ -1,0 +1,262 @@
+{
+  "dash_page" : {
+    "changelogs_here" : "Hier",
+    "table" : {
+      "back" : "Zurück",
+      "category" : {
+        "text_1" : "Kategorie",
+        "text_2" : "Einträge"
+      },
+      "files" : {
+        "new" : "Neu",
+        "released_no" : "Nicht freigegeben",
+        "released_only_verfied" : "Nur Verifiziert",
+        "released_yes" : "Freigegeben",
+		"released_disabled" : "Deaktiviert",
+        "text_1" : "Dateiname",
+        "text_2" : "Dateigröße",
+        "text_3" : "Hochgeladen"
+      },
+      "title" : "Aktuelle Veröffentlichungen"
+    },
+    "text_changelogs" : "Changelogs: {here}",
+    "text_info" : "Auf dieser Seite könnt ihr neue Updates von unsere Projekte herunterladen. Allerdings sind unsere Projekte verschlüsselt (nur ELS), außer die Konfigurationen.",
+    "title" : "Dashboard — {websiteName}",
+    "welcome_text" : "Willkommen auf {websiteName}.",
+    "welcome_text_afternoon" : "Guten Tag, {username}.",
+    "welcome_text_evening" : "Guten Abend, {username}.",
+    "welcome_text_morning" : "Guten Morgen, {username}.",
+    "welcome_text_night" : "Gute Nacht, {username}."
+  },
+  "footer" : {
+    "content" : "Copyright © {websiteName}.",
+    "english" : "Englisch",
+    "german" : "Deutsch",
+	"french" : "Französisch",
+    "loaded" : "Seitenladezeit: {load} Sek."
+  },
+  "header" : {
+    "already_login" : {
+      "admin_button" : "Verwaltung",
+      "dashboard" : "Dashboard",
+      "logout" : "Abmelden",
+      "my_account" : "Mein Account",
+      "releases" : "Releases",
+      "security" : "Sicherheit",
+      "settings" : "Einstellungen",
+      "tickets" : "Meine Tickets"
+    },
+    "not_login" : {
+      "homepage" : "Startseite",
+      "login" : "Anmelden",
+      "register" : "Registrieren",
+      "status" : "Status"
+    }
+  },
+  "index_page" : {
+    "aboutUs" : "Bei {websiteName} kannst du alle unsere selbst entwickelten Systeme herunterladen und verwenden – ohne Hosting von unserer Seite.",
+    "alert" : {
+      "maintenance" : {
+        "badge" : "Wartungen",
+        "content" : "Wir führen aktuell Wartungsarbeiten durch."
+      },
+      "newVersion" : {
+        "content" : "Neue Versionen!"
+      }
+    },
+    "button" : {
+      "registerNow" : "Jetzt Registrieren",
+      "toDashboard" : "Zum Dashboard"
+    },
+    "download" : "Herunterladen",
+    "fastDownloads" : "Schnelle Downloads",
+    "fastServers" : "Schnelle Server",
+    "fastSupport" : "Schneller Support",
+    "miscellaneous" : {
+      "newVersionText" : "Neue Versionen!",
+      "timeToSwitch" : "Es ist Zeit zu {websiteName} wechseln.",
+      "yourSystems" : "Deine Systeme, dein Fortschritt – jetzt zum Download bereit!"
+    },
+    "ourSystems" : "Unsere eigenen Systeme!",
+    "section" : {
+      "downloads" : {
+        "content" : "Software-Downloads sind schnell und unkompliziert.",
+        "heading" : "Schnelle Downloads"
+      },
+      "servers" : {
+        "content" : "Mit unseren schnellen Servern bieten wir zuverlässige Software-Downloads und eine beeindruckende Betriebszeit von 99,99%.",
+        "heading" : "Schnelle Server"
+      },
+      "support" : {
+        "content" : "Unser Support ist fast rund um die Uhr über unser Ticketsystem verfügbar.",
+        "heading" : "Schneller Support"
+      }
+    },
+    "title" : "Startseite — {websiteName}"
+  },
+  "login" : {
+    "changelogs" : "Die Changelogs findest du {here}",
+    "changelogs_here" : "hier",
+    "data_security" : "Daten werden sicher über SSL verschlüsselt.",
+    "login_button" : "Anmelden",
+    "login_title" : "Anmelden",
+    "password" : "Passwort",
+    "register_button" : "Du hast noch keinen Account?",
+    "remember_me" : "Anmeldung speichern (30 Tage)",
+    "title" : "Anmelden — {websiteName}",
+    "username" : "Benutzername oder Kontonummer"
+  },
+  "reactive" : {
+    "button_logout" : "Abmelden",
+    "button_reactive" : "Löschvorgang abbrechen",
+    "text" : "Dein Account ({username}) wird in {days} Tagen gelöscht. Wenn du deinen Account behalten möchtest, klicke bitte auf den unten stehenden Button, um den Löschvorgang abzubrechen.",
+    "text_2" : "Hinweis: Nach Ablauf der 7 Tage wird dein Account endgültig gelöscht und kann nicht wiederhergestellt werden.",
+    "title" : "ACCOUNT LÖSCHUNG"
+  },
+  "register" : {
+    "data_security" : "SSL-verschlüsselte Übertragung und sichere Datenbank-Speicherung.",
+    "login_button" : "Du hast bereits einen Account?",
+    "password" : "Passwort",
+    "register_button" : "Account anlegen",
+    "register_code" : "Registrierungs-Code",
+    "register_title" : "Registrieren",
+    "title" : "Registrieren — {websiteName}",
+    "username" : "Benutzername"
+  },
+  "security" : {
+    "2fa" : {
+      "button" : {
+        "active" : "Aktivieren",
+        "deactive" : "Deaktivieren"
+      },
+      "disabled" : "Deaktiviert",
+      "enabled" : "Aktiviert",
+      "modal" : {
+        "activate" : "Aktivieren",
+        "text" : "Scanne den Code mit einer beliebigen App (Google-Authenticator, Authy, etc.)",
+        "title" : "Time-Based-Authentifizierung (2FA) Aktivieren"
+      },
+      "text" : {
+        "activate" : "Aktiviere Time-Based-Authentifizierung auf deinem Account."
+      },
+      "title" : "Time-Based-Authentifizierung (2FA)"
+    },
+    "forget" : "Passwort vergessen",
+    "login_history" : {
+      "delete" : "Alle Einträge löschen",
+      "table" : {
+        "empty" : "Keine Einträge gefunden.",
+        "fail" : "Abgelehnt",
+        "success" : "Erfolgreich",
+        "text_1" : "Anmeldezeit",
+        "text_2" : "IP-Adresse",
+        "text_3" : "Status"
+      },
+      "title" : "Login-Verlauf"
+    },
+    "nav" : "Sicherheit",
+    "password" : {
+      "new_1" : "Neues Passwort",
+      "new_2" : "Neues Passwort bestätigen",
+      "old" : "Altes Passwort",
+      "title" : "Passwort ändern"
+    },
+    "save" : "Speichern",
+    "surtitle" : "MEIN ACCOUNT",
+    "title" : "Sicherheit — {websiteName}",
+    "title_1" : "Sicherheit"
+  },
+  "settings" : {
+    "delete_account" : {
+      "modal" : {
+        "cancel" : "Abbrechen",
+        "delete" : "Löschen",
+        "subtitle" : "Wirklich?",
+        "text" : "Nach 7 Tagen wird dein Account automatisch gelöscht, es sei denn, du entscheidest dich, den Vorgang nachträglich abzubrechen. Beachte bitte, dass nach der Löschung keine Wiederherstellung möglich ist.",
+        "title" : "Account löschen"
+      },
+      "text" : "Dein Account und alle damit verbundenen Daten werden gelöscht. Dies kann nicht rückgängig gemacht werden.",
+      "title" : "Account löschen"
+    },
+    "effects" : {
+      "text_gen" : "Hinweis: Diese Option aktiviert Effekte wie Schneeanimationen und Neujahrsgrafiken.",
+      "text_on" : "Die Effekte, Schneeanimationen, Neujahr und vieles mehr, sind aktuell aktiviert.",
+      "text_on_1" : "Hinweis: Diese Funktionen werden nur während laufender Events angezeigt, wie zum Beispiel Neujahr.",
+      "title" : "Effekte",
+      "toggle" : "Deaktivieren / Aktivieren"
+    },
+    "email" : {
+      "add" : "E-Mail hinzufügen",
+      "change" : "E-Mail bearbeiten",
+      "currentmail" : "Deine aktuelle E-Mail Adresse: {currentmail}",
+      "field" : "E-Mail Adresse",
+      "text" : "Wenn du eine neue E-Mail Adresse hast, kannst du sie Ändern. Du brauchst eine E-Mail Adresse falls du dein Passwort vergessen hast.",
+      "text.add" : "Bitte füge deine E-Mail Adresse hinzu. Diese kannst du nutzen, wenn du dein Passwort vergessen hast."
+    },
+    "nav" : "Einstellungen",
+    "night_mode" : {
+      "auto" : "Automatisch (17:00 bis 7:00 Uhr)",
+      "off" : "Aus",
+      "on" : "Ein",
+      "title" : "Nachtmodus"
+    },
+    "save" : "Speichern",
+    "surtitle" : "MEIN ACCOUNT",
+    "title" : "Einstellungen",
+    "title_2" : "Allgemeine Einstellungen",
+    "username" : {
+      "text" : "Hinweis: Du kannst dein Benutzername alle 30 Tage ändern.",
+      "text_disabled" : "Hinweis: Verbleibende Zeit bis zur nächsten Benutzernamensänderung: {days}",
+      "text_field" : "Neuer Benutzername",
+      "title" : "Benutzername ändern"
+    }
+  },
+  "ticket_detail" : {
+    "answer" : {
+      "close" : "Ticket schließen",
+      "field" : "Antworten:",
+      "field_text" : "Guten Tag,",
+      "new" : "NEU",
+      "send" : "Antworten",
+      "team" : "Teammitglied"
+    },
+    "closed" : "Ticket Geschlossen",
+    "created" : "Erstellt am:",
+    "messages" : "Nachrichten",
+    "status" : {
+      "closed" : "Geschlossen",
+      "in_progress" : "In Bearbeitung",
+      "open" : "Offen",
+      "unknown" : "Unbekannt",
+      "unkown" : "Unbekannt"
+    },
+    "ticket_id" : "Ticket-ID:",
+    "title" : "Ticket Nachrichten — {websiteName}"
+  },
+  "ticket" : {
+    "status" : {
+      "closed" : "Geschlossen",
+      "in_progress" : "In Bearbeitung",
+      "open" : "Offen",
+      "unknown" : "Unbekannt",
+      "unkown" : "Unbekannt"
+    },
+    "table" : {
+      "text_1" : "ID",
+      "text_2" : "Status",
+      "text_3" : "Betreff",
+      "text_4" : "Erstellt am"
+    },
+    "ticket_create_button" : "Ticket erstellen",
+    "ticket_create" : {
+      "text_1" : "Betreff",
+      "text_2" : "Nachricht",
+      "text_3" : "Guten Tag,",
+      "text_4" : "Ticket erstellen",
+      "text_5" : "Schließen",
+      "title" : "Ticket erstellen"
+    },
+    "ticket_not_create" : "Du hast noch keine Tickets erstellt.",
+    "title" : "Meine Tickets"
+  }
+}

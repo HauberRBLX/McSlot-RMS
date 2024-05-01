@@ -1,0 +1,262 @@
+{
+  "dash_page" : {
+    "changelogs_here" : "Ici",
+    "table" : {
+      "back" : "Dos",
+      "category" : {
+        "text_1" : "Catégorie",
+        "text_2" : "Entrées"
+      },
+      "files" : {
+        "new" : "Nouveau",
+        "released_no" : "Non publié",
+        "released_only_verfied" : "Uniquement vérifié",
+        "released_yes" : "Publié",
+		"released_disabled" : "Désactivé",
+        "text_1" : "Nom de fichier",
+        "text_2" : "Taille du fichier",
+        "text_3" : "Téléchargé"
+      },
+      "title" : "Publications récentes"
+    },
+    "text_changelogs" : "Changements: {here}",
+    "text_info" : "Sur cette page, vous pouvez télécharger de nouvelles mises à jour de nos projets. Cependant, nos projets sont chiffrés (uniquement ELS), sauf les configurations.",
+    "title" : "Tableau de bord - {websiteName} ",
+    "welcome_text" : "Bienvenue sur {websiteName}.",
+    "welcome_text_afternoon" : "Bonjour, {username}.",
+    "welcome_text_evening" : "Bonsoir, {username}.",
+    "welcome_text_morning" : "Bonjour, {username}.",
+    "welcome_text_night" : "Bonne nuit, {username}."
+  },
+  "footer" : {
+    "content" : "Droits d'auteur © {websiteName}.",
+    "english" : "Anglais",
+    "german" : "Allemand",
+	"french" : "Français",
+    "loaded" : "Temps de chargement de la page : {load} s"
+  },
+  "header" : {
+    "already_login" : {
+      "admin_button" : "Administration",
+      "dashboard" : "Tableau de bord",
+      "logout" : "Déconnexion",
+      "my_account" : "Mon compte",
+      "releases" : "Sorties",
+      "security" : "Sécurité",
+      "settings" : "Paramètres",
+      "tickets" : "Mes billets"
+    },
+    "not_login" : {
+      "homepage" : "Page d'accueil",
+      "login" : "Se connecter",
+      "register" : "S'inscrire",
+      "status" : "Statut"
+    }
+  },
+  "index_page" : {
+    "aboutUs" : "Chez {websiteName}, vous pouvez télécharger et utiliser tous nos systèmes auto-développés - sans hébergement de notre part.",
+    "alert" : {
+      "maintenance" : {
+        "badge" : "Maintenance",
+        "content" : "Nous effectuons actuellement des travaux de maintenance."
+      },
+      "newVersion" : {
+        "content" : "Nouvelles versions!"
+      }
+    },
+    "button" : {
+      "registerNow" : "S'inscrire maintenant",
+      "toDashboard" : "Aller au tableau de bord"
+    },
+    "download" : "Télécharger",
+    "fastDownloads" : "Téléchargements rapides",
+    "fastServers" : "Serveurs rapides",
+    "fastSupport" : "Support rapide",
+    "miscellaneous" : {
+      "newVersionText" : "Nouvelles versions!",
+      "timeToSwitch" : "Il est temps de passer à {websiteName}.",
+      "yourSystems" : "Vos systèmes, votre progression - maintenant disponible en téléchargement!"
+    },
+    "ourSystems" : "Nos propres systèmes!",
+    "section" : {
+      "downloads" : {
+        "content" : "Les téléchargements de logiciels sont rapides et simples.",
+        "heading" : "Téléchargements rapides"
+      },
+      "servers" : {
+        "content" : "Avec nos serveurs rapides, nous offrons des téléchargements de logiciels fiables et un temps de fonctionnement impressionnant de 99,99%.",
+        "heading" : "Serveurs rapides"
+      },
+      "support" : {
+        "content" : "Notre support est disponible presque 24 heures sur 24 via notre système de tickets.",
+        "heading" : "Assistance rapide"
+      }
+    },
+    "title" : "Page d'accueil - {websiteName}"
+  },
+  "login" : {
+    "changelogs" : "Vous trouverez les changements {here}",
+    "changelogs_here" : "ici",
+    "data_security" : "Les données sont sécurisées par un chiffrement SSL.",
+    "login_button" : "Se connecter",
+    "login_title" : "Se connecter",
+    "password" : "Mot de passe",
+    "register_button" : "Vous n'avez pas encore de compte?",
+    "remember_me" : "Se souvenir de moi (30 jours)",
+    "title" : "Se connecter - {websiteName} ",
+    "username" : "Nom d'utilisateur ou numéro de compte"
+  },
+  "reactive" : {
+    "button_logout" : "Déconnexion",
+    "button_reactive" : "Annuler la suppression",
+    "text" : "Votre compte ({username}) sera supprimé dans {days} jours. Si vous souhaitez conserver votre compte, veuillez cliquer sur le bouton ci-dessous pour annuler la suppression.",
+    "text_2" : "Remarque : Après 7 jours, votre compte sera définitivement supprimé et ne pourra pas être restauré.",
+    "title" : "SUPPRIMER LE COMPTE"
+  },
+  "register" : {
+    "data_security" : "Transmission cryptée SSL et stockage de base de données sécurisé.",
+    "login_button" : "Avez vous déjà un compte?",
+    "password" : "mot de passe",
+    "register_button" : "Créer un compte",
+    "register_code" : "Code d'enregistrement",
+    "register_title" : "enregistrer",
+    "title" : "S'inscrire – {websiteName}",
+    "username" : "Nom d'utilisateur"
+  },
+  "security" : {
+    "2fa" : {
+      "button" : {
+        "active" : "Activer",
+        "deactive" : "Désactiver"
+      },
+      "disabled" : "Désactivé",
+      "enabled" : "Activé",
+      "modal" : {
+        "activate" : "Activer",
+        "text" : "Scannez le code avec n'importe quelle application (Google Authenticator, Authy, etc.)",
+        "title" : "Activer l'authentification basée sur le temps (2FA)"
+      },
+      "text" : {
+        "activate" : "Activer"
+      },
+      "title" : "Authentification basée sur le temps (2FA)"
+    },
+    "forget" : "Mot de passe oublié",
+    "login_history" : {
+      "delete" : "supprimer toutes les entrées",
+      "table" : {
+        "empty" : "Aucune entrée trouvée.",
+        "fail" : "Rejeté",
+        "success" : "Réussi",
+        "text_1" : "Heure d'inscription",
+        "text_2" : "adresse IP",
+        "text_3" : "statut"
+      },
+      "title" : "Historique de connexion"
+    },
+    "nav" : "Sécurité",
+    "password" : {
+      "new_1" : "nouveau mot de passe",
+      "new_2" : "Confirmer le nouveau mot de passe",
+      "old" : "ancien mot de passe",
+      "title" : "Changer le mot de passe"
+    },
+    "save" : "Sauvegarder",
+    "surtitle" : "MON COMPTE",
+    "title" : "Sécurité – {websiteName}",
+    "title_1" : "Sécurité"
+  },
+  "settings" : {
+    "delete_account" : {
+      "modal" : {
+        "cancel" : "Annuler",
+        "delete" : "Supprimer",
+        "subtitle" : "Vraiment?",
+        "text" : "Après 7 jours, votre compte sera automatiquement supprimé, sauf si vous décidez d'annuler le processus par la suite. Veuillez noter qu'aucune récupération n'est possible après la suppression.",
+        "title" : "Supprimer le compte"
+      },
+      "text" : "Votre compte et toutes les données associées seront supprimés. Ça ne peut pas être annulé.",
+      "title" : "Supprimer le compte"
+    },
+    "effects" : {
+      "text_gen" : "Remarque : Cette option active des effets tels que des animations de neige et des graphiques du Nouvel An.",
+      "text_on" : "Les effets, animations de neige, Nouvel An et bien plus encore, sont actuellement activés.",
+      "text_on_1" : "Remarque : Ces fonctionnalités n'apparaissent que lors d'événements en cours, tels que le Nouvel An.",
+      "title" : "Effets",
+      "toggle" : "Désactiver / Activer"
+    },
+    "email" : {
+      "add" : "Ajouter un e-mail",
+      "change" : "Modifier l'e-mail",
+      "currentmail" : "Votre adresse e-mail actuelle : {currentmail}",
+      "field" : "adresse e-mail",
+      "text" : "Si vous avez une nouvelle adresse e-mail, vous pouvez la modifier. Vous aurez besoin d'une adresse e-mail au cas où vous auriez oublié votre mot de passe.",
+      "text.add" : "Veuillez ajouter votre adresse e-mail. Vous pouvez l'utiliser si vous avez oublié votre mot de passe."
+    },
+    "nav" : "Paramètres",
+    "night_mode" : {
+      "auto" : "Automatique (17h00 à 7h00)",
+      "off" : "Hors de",
+      "on" : "UN",
+      "title" : "Mode nuit"
+    },
+    "save" : "Sauvegarder",
+    "surtitle" : "MON COMPTE",
+    "title" : "Paramètres",
+    "title_2" : "réglages généraux",
+    "username" : {
+      "text" : "Remarque : Vous pouvez modifier votre nom d'utilisateur tous les 30 jours.",
+      "text_disabled" : "Remarque : Temps restant jusqu'au prochain changement de nom d'utilisateur : {days}",
+      "text_field" : "Nouveau nom d'utilisateur",
+      "title" : "Changer le nom d'utilisateur"
+    }
+  },
+  "ticket_detail" : {
+    "answer" : {
+      "close" : "Fermer le ticket",
+      "field" : "Répondre:",
+      "field_text" : "Bonne journée,",
+      "new" : "NOUVEAU",
+      "send" : "Répondre",
+      "team" : "Membre de l'équipe"
+    },
+    "closed" : "Billet fermé",
+    "created" : "Créé sur:",
+    "messages" : "Nouvelles",
+    "status" : {
+      "closed" : "Fermé",
+      "in_progress" : "En cours",
+      "open" : "Ouvrir",
+      "unknown" : "Inconnu",
+      "unkown" : "Inconnu"
+    },
+    "ticket_id" : "ID de billets:",
+    "title" : "Messages relatifs aux billets – {websiteName}"
+  },
+  "ticket" : {
+    "status" : {
+      "closed" : "Fermé",
+      "in_progress" : "En cours",
+      "open" : "Ouvrir",
+      "unknown" : "Inconnu",
+      "unkown" : "Inconnu"
+    },
+    "table" : {
+      "text_1" : "IDENTIFIANT",
+      "text_2" : "statut",
+      "text_3" : "Référence:",
+      "text_4" : "Créé sur"
+    },
+    "ticket_create_button" : "Créer un ticket",
+    "ticket_create" : {
+      "text_1" : "Concernant",
+      "text_2" : "Nouvelles",
+      "text_3" : "Bonne journée,",
+      "text_4" : "Créer un ticket",
+      "text_5" : "Fermer",
+      "title" : "Créer un ticket"
+    },
+    "ticket_not_create" : "Vous n'avez pas encore créé de tickets.",
+    "title" : "Mes billets"
+  }
+}

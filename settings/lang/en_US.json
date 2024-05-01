@@ -1,0 +1,262 @@
+{
+  "dash_page" : {
+    "changelogs_here" : "Here",
+    "table" : {
+      "back" : "Back",
+      "category" : {
+        "text_1" : "Category",
+        "text_2" : "Entry"
+      },
+      "files" : {
+        "new" : "New",
+        "released_no" : "Not released",
+        "released_only_verfied" : "Verfied only",
+        "released_yes" : "Released",
+		"released_disabled" : "Disabled",
+        "text_1" : "File Name",
+        "text_2" : "File Size",
+        "text_3" : "Last modified"
+      },
+      "title" : "Current releases"
+    },
+    "text_changelogs" : "Changelogs: {here}",
+    "text_info" : "On this page you can download new updates from our projects. However, our projects are encrypted (only ELS), except for the configurations.",
+    "title" : "Dashboard — {websiteName}",
+    "welcome_text" : "Welcome to {websiteName}.",
+    "welcome_text_afternoon" : "Good day, {username}.",
+    "welcome_text_evening" : "Good evening, {username}.",
+    "welcome_text_morning" : "Good morning, {username}.",
+    "welcome_text_night" : "Good night, {username}."
+  },
+  "footer" : {
+    "content" : "Copyright © {websiteName}.",
+    "english" : "English",
+    "german" : "German",
+	"french" : "French",
+    "loaded" : "Site Loading time: {load} seconds"
+  },
+  "header" : {
+    "already_login" : {
+      "admin_button" : "Admin Panel",
+      "dashboard" : "Dashboard",
+      "logout" : "Sign Out",
+      "my_account" : "My Account",
+      "releases" : "Releases",
+      "security" : "Security",
+      "settings" : "Settings",
+      "tickets" : "My Tickets"
+    },
+    "not_login" : {
+      "homepage" : "Homepage",
+      "login" : "Login",
+      "register" : "Register",
+      "status" : "Status"
+    }
+  },
+  "index_page" : {
+    "aboutUs" : "At {websiteName} you can download our Self-made Systems and use them - without hosting on our site",
+    "alert" : {
+      "maintenance" : {
+        "badge" : "Maintenance",
+        "content" : "We are currently performing maintenance on the site"
+      },
+      "newVersion" : {
+        "content" : "New versions!"
+      }
+    },
+    "button" : {
+      "registerNow" : "Register now",
+      "toDashboard" : "Go to the dashboard"
+    },
+    "download" : "Download",
+    "fastDownloads" : "Fast Downloads",
+    "fastServers" : "Fast Servers",
+    "fastSupport" : "Fast Support",
+    "miscellaneous" : {
+      "newVersionText" : "New Versions!",
+      "timeToSwitch" : "It's time to switch to {websiteName}",
+      "yourSystems" : "Your systems, your progress - Now ready to download!"
+    },
+    "ourSystems" : "Our own systems!",
+    "section" : {
+      "downloads" : {
+        "content" : "Software-Downloads are fast and uncomplicated",
+        "heading" : "Fast downloads"
+      },
+      "servers" : {
+        "content" : "With our servers we are offering reliable Software-Downloads and an incredible operating time of 99,99%",
+        "heading" : "Fast servers"
+      },
+      "support" : {
+        "content" : "Our support is available almost around the clock through our Ticket System.",
+        "heading" : "Fast Support"
+      }
+    },
+    "title" : "Homepage — {websiteName}"
+  },
+  "login" : {
+    "changelogs" : "You can find the changelogs {here}",
+    "changelogs_here" : "Hier",
+    "data_security" : "Data is securely transmitted through SSL.",
+    "login_button" : "Login",
+    "login_title" : "Login",
+    "password" : "Password",
+    "register_button" : "You do not have an account?",
+    "remember_me" : "Remember me (30 days)",
+    "title" : "Login — {websiteName}",
+    "username" : "Username or Account Number"
+  },
+  "reactive" : {
+    "button_logout" : "Logout",
+    "button_reactive" : "Cancel deletion",
+    "text" : "Your account ({username}) will be deleted in {days} days. If you want to keep your account, please click on the below button, to cancel the deletion process",
+    "text_2" : "Notice: After 7 days your account will be permanently deleted and it cannot be recovered.",
+    "title" : "DELETE ACCOUNT"
+  },
+  "register" : {
+    "data_security" : "Data is securely transmitted through SSL.",
+    "login_button" : "You already have an account?",
+    "password" : "Password",
+    "register_button" : "Create account",
+    "register_code" : "Register code",
+    "register_title" : "Register",
+    "title" : "Register — {websiteName}",
+    "username" : "Username"
+  },
+  "security" : {
+    "2fa" : {
+      "button" : {
+        "active" : "Activate",
+        "deactive" : "Deactivate"
+      },
+      "disabled" : "Disabled",
+      "enabled" : "Activated",
+      "modal" : {
+        "activate" : "Activate",
+        "text" : "Scan the code with any app (Google Authenticator, Authy, etc.)",
+        "title" : "Time-Based Authentication (2FA) Enable"
+      },
+      "text" : {
+        "activate" : "Activate"
+      },
+      "title" : "Time-Based-Authentifizierung (2FA)"
+    },
+    "forget" : "Forget Password",
+    "login_history" : {
+      "delete" : "Delete all entries",
+      "table" : {
+        "empty" : "No entries found",
+        "fail" : "Denied",
+        "success" : "Successful",
+        "text_1" : "Login Time",
+        "text_2" : "IP Address",
+        "text_3" : "Status"
+      },
+      "title" : "Login History"
+    },
+    "nav" : "Security",
+    "password" : {
+      "new_1" : "New Password",
+      "new_2" : "Confirm your new password",
+      "old" : "Old Password",
+      "title" : "Change Password"
+    },
+    "save" : "Save",
+    "surtitle" : "MY ACCOUNT",
+    "title" : "Security — {websiteName}",
+    "title_1" : "Security"
+  },
+  "settings" : {
+    "delete_account" : {
+      "modal" : {
+        "cancel" : "Cancel",
+        "delete" : "Delete",
+        "subtitle" : "Are you sure?",
+        "text" : "Your account will be automatically deleted in 7 days, unless you decide to cancel the deletion afterwards. Please keep in mind that a recovery is not possible after your account has been deleted.",
+        "title" : "Delete account"
+      },
+      "text" : "Your account and all associated data will be deleted. This change cannot be reversed.",
+      "title" : "Delete account"
+    },
+    "effects" : {
+      "text_gen" : "Notice: This option enables effects such as Snow Animations or New Years Graphics",
+      "text_on" : "The effects, snow, new years and much more, are currently enabled.",
+      "text_on_1" : "Notice: These functions are only visible during running events. For example, New Years Eve",
+      "title" : "Effects",
+      "toggle" : "Disable / Enable"
+    },
+    "email" : {
+      "add" : "Add E-Mail",
+      "change" : "Change E-Mail",
+      "currentmail" : "Your current email address: {currentmail}",
+      "field" : "E-Mail Address",
+      "text" : "If you have a new email address, you can change it. You will need an email address if you have forgotten your password.",
+      "text.add" : "Please add your email address. You can use this if you have forgotten your password."
+    },
+    "nav" : "Settings",
+    "night_mode" : {
+      "auto" : "Automatic (5 p.m. to 7 a.m.)",
+      "off" : "Off",
+      "on" : "On",
+      "title" : "Night Mode"
+    },
+    "save" : "Save",
+    "surtitle" : "MY ACCOUNT",
+    "title" : "Settings",
+    "title_2" : "General Settings",
+    "username" : {
+      "text" : "Notice: You can only change your username once every 30 days.",
+      "text_disabled" : "Notice: Remaining time until you can change your username again: {days}",
+      "text_field" : "New username",
+      "title" : "Change username"
+    }
+  },
+  "ticket_detail" : {
+    "answer" : {
+      "close" : "Close ticket",
+      "field" : "Answers:",
+      "field_text" : "Good day,",
+      "new" : "NEW",
+      "send" : "Answer",
+      "team" : "Staff member"
+    },
+    "closed" : "Ticket closed",
+    "created" : "Created on:",
+    "messages" : "Messages",
+    "status" : {
+      "closed" : "Closed",
+      "in_progress" : "In Progress",
+      "open" : "Open",
+      "unknown" : "Unknown",
+      "unkown" : "Unknown"
+    },
+    "ticket_id" : "Ticket-ID:",
+    "title" : "Ticket Messages — {websiteName}"
+  },
+  "ticket" : {
+    "status" : {
+      "closed" : "Closed",
+      "in_progress" : "In Progress",
+      "open" : "Open",
+      "unknown" : "Unknown",
+      "unkown" : "Unknown"
+    },
+    "table" : {
+      "text_1" : "ID",
+      "text_2" : "Status",
+      "text_3" : "Subject",
+      "text_4" : "Created on"
+    },
+    "ticket_create_button" : "Create tickets",
+    "ticket_create" : {
+      "text_1" : "Subject",
+      "text_2" : "Message",
+      "text_3" : "Good day,",
+      "text_4" : "Create ticket",
+      "text_5" : "Close",
+      "title" : "Create a ticket"
+    },
+    "ticket_not_create" : "You have not created any tickets yet",
+    "title" : "Your tickets"
+  }
+}
